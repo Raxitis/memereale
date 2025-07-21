@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Silk from "@/components/silk";
+import Silk from "@/components/Silk";
 import Button from "@/components/button";
 import Link from "next/link";
 export default function Home() {

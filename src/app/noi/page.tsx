@@ -1,4 +1,4 @@
-import Iridescence from "@/components/Iridescence";
+
 
 export default function Home() {
   return (
